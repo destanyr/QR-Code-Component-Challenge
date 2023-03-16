@@ -16,7 +16,7 @@ body {
     padding: 16px 16px 20px 20px;
     margin-top: 50px;
     justify-content: center;
-    align-self: center;
+    align-items: center;
 }
 
 .image img {
