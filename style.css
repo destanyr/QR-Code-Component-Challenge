@@ -1,10 +1,9 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
-    display: flex;
-    margin: auto;
-    justify-content: center;
-    height: 100%;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
 }
 
 main {
@@ -14,7 +13,6 @@ main {
     width: 270px;
     height: 300;
     padding: 16px 16px 20px 20px;
-    margin-top: 50px;
     justify-content: center;
     align-items: center;
 }
